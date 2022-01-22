@@ -2,7 +2,8 @@
 Implementations of machine learning algorithms from scratch.
 References: -
 	1) The Elements of Statistical Learning - Tibshirani, Friedman
-	2) 
+	2) Understanding Machine Learning: From Theory to Algorithms -Shai Shalev-Shwartz, Shai Ben-David
+	3) [6 Steps To Write Any Machine Learning Algorithm From Scratch](https://towardsdatascience.com/6-steps-to-write-any-machine-learning-algorithm-from-scratch-perceptron-case-study-335f638a70f3)
 
 
 ### Kshitij Agarkar, IITN, 2021
